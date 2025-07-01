@@ -46,6 +46,8 @@ func TestSubtract(t *testing.T) {
 	}
 }
 
+// comment
+
 func TestMultiply(t *testing.T) {
 	tests := []struct {
 		name     string
